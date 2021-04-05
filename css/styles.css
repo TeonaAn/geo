@@ -37,6 +37,7 @@ a{
     height: 155px;
     margin-left: 54px;
 }
+
 .float-right {
     float: right;
 }
@@ -58,6 +59,9 @@ a{
     padding: 25px;
     height: 355px;
     font-size: 17px;
+}
+.typo-image {
+    margin-right: 10px;
 }
 .baner:last-child{
     margin-right: 0;
